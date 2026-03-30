@@ -1,0 +1,8 @@
+venv/
+.vscode/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+sp500_data.csv
+SP500_Predictor_Presentation.pptx
